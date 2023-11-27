@@ -1,4 +1,4 @@
-# MATLAB_ROS_PX4_LEARNING,用来记录一下自己学习matlab联合ros和px4进行仿真的一些学习过程
+# 用来记录一下自己学习matlab联合ros和px4进行仿真的一些学习过程
 
 ## 文件说明
 
@@ -19,7 +19,10 @@ mavros中需要用的到请求和服务
 订阅无人机的状态
 
 ## 功能包编写
-使用python进行功能包的编写
+使用python进行功能包的编写 在ros功能包编写.md中
 
-##运行各个节点
+## px的gazebo环境和offboard程序讲解
+
+
+
 
